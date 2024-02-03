@@ -2,6 +2,7 @@
 
 ## Description
 A Python program that gives the user the option to encrypt or decrypt a message, or quit the program entirely. Uses the Caesar cipher to encrypt and decrypt data.
+
 ## Code Snippet
 
 ```
