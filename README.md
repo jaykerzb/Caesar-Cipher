@@ -5,7 +5,7 @@ A Python program that gives the user the option to encrypt or decrypt a message,
 
 ## Code Snippet
 
-```
+```python
 import time
 import sys
 
